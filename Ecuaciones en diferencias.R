@@ -1,6 +1,3 @@
-##Tarea ecuaciones en diferencias
-
-
 ##Ecuaciones de primer orden
 y0 <- 8
 a <- 4
